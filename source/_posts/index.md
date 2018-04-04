@@ -1,8 +1,7 @@
 ---
 title: 绿通宝简介
 date: 2018-04-03 23:45:18
-tags:
-  - 绿通宝简介 
+tags: 
 password: 
 copyright: true
 comments: true
