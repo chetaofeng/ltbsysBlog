@@ -1,8 +1,8 @@
 ---
-title: 联系我们
+title: 关于我们
 date: 2018-04-03 23:45:18
 tags:
-  - 联系我们
+  - 关于我们
 password: 
 copyright: true
 comments: true
@@ -10,6 +10,11 @@ toc: true
 ---
 
 ---
+# 获得荣誉
+* 2017年度，甘肃紫光优秀项目
+
+
+# 联系方式
 ![image](http://gsunis.net/V2/image/map.png)
 
 
