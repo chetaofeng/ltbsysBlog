@@ -4,14 +4,16 @@ title:
   tag: 标签
   schedule: 日程表
 
-author: 博主
+author: 绿通宝管理员
 
 menu:
   home: 首页
-  archives: 归档
+  archives: 资讯新闻
   categories: 分类
-  tags: 标签
-  about: 关于
+  tags: 标签云
+  footprint: 成长轨迹
+  design: 规范&附件
+  about: 联系我们
   search: 搜索
   schedule: 日程表
   sitemap: 站点地图
