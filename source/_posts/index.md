@@ -1,6 +1,6 @@
 ---
 title: 绿通宝简介
-date: 2018-04-03 23:45:18
+date: 2017-10-25 23:45:18
 tags: 
 password: 
 copyright: true
@@ -30,4 +30,4 @@ top: true
 * 本系统依托现有联网收费的平台，生成各种报表，及时，便捷的对减免金额和货物做出统计稽查。 
 
 # 视频预览
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=p0026ru8zvn&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=k06240uzkh5&tiny=0&auto=0" allowfullscreen></iframe>
