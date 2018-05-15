@@ -30,4 +30,5 @@ top: true
 * 本系统依托现有联网收费的平台，生成各种报表，及时，便捷的对减免金额和货物做出统计稽查。 
 
 # 视频预览
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=k06240uzkh5&tiny=0&auto=0" allowfullscreen></iframe>
+
+<iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=27c20c448708e2a51407c5e767934a97&tvId=17184224209&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" width="700" height="480" allowfullscreen="true"></iframe> 
