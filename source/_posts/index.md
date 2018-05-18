@@ -1,6 +1,6 @@
 ---
 title: 绿通宝简介
-date: 2017-10-25 23:45:18
+date: 2018-10-25 23:45:18
 tags: 
 password: 
 copyright: true
@@ -31,4 +31,4 @@ top: true
 
 # 视频预览
 &emsp;&emsp;&emsp;&emsp;爱奇艺在线查看：<a href="http://www.iqiyi.com/w_19rzehixtp.html" target="_blank">《绿通宝管理系统使用说明.mp4》</a>
-<iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=27c20c448708e2a51407c5e767934a97&tvId=17184224209&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" width="400" height="300" allowfullscreen="true"></iframe> 
+<iframe align="center" src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=27c20c448708e2a51407c5e767934a97&tvId=17184224209&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" width="400" height="300" allowfullscreen="true"></iframe> 
