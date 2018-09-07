@@ -10,7 +10,7 @@
     {% endif %}
 
     <div class="custom-logo-site-title">
-      <img src='/images/logo.png' alt='logo' style="display: inline;width: 50px;height:40px;float:left;margin-right:5px;"/>
+      <img src='/images/logo.png' alt='logo' style="display: inline;width: 40px;height:30px;float:left;margin-right:5px;"/>
       <a href="{{ config.root }}"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
         <span class="site-title">{{ config.title }}</span>

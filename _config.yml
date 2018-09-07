@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 绿通宝
-subtitle: 绿通宝管理系统
+title: 绿通智慧管理系统
+subtitle: 绿通智慧管理系统
 description: 高速公路绿色通道业务专业解决方案
-keywords: 绿色通道  绿通宝  高速公路
-author: 绿通宝项目经理部
+keywords: 绿色通道   高速公路
+# 绿通宝项目经理部
+author: 绿通智慧管理系统项目经理部
 language: zh-Hans
 timezone: Asia/Shanghai
 

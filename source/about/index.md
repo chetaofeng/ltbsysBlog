@@ -16,14 +16,14 @@ toc: true
 传真：    0931-8531000
 邮编：    730010
 邮箱：    ltbsys@163.com
-地址：    中国·甘肃省·兰州市张苏滩村802号  
+地址：    中国·甘肃省·兰州市张苏滩村802号 
 
 ---
-<div  align="center">绿通宝官网二维码</div>
+<div  align="center">绿通智慧管理系统官网二维码</div>
 
 ![image](../pub-images/qrcode.png)
 
-<div  align="center">绿通宝售后服务钉钉群</div>
+<div  align="center">绿通智慧管理系统售后服务钉钉群</div>
 
 ![image](../pub-images/dingtalk.png)
 
